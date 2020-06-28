@@ -1,5 +1,7 @@
 # llSPS-INT-2659-Predicting-Life-Expectancy-using-Machine-Learning
 
+<a href="https://node-red-nikhil.eu-gb.mybluemix.net/ui/#!/0?socketid=feJj8T23lSmFI_Q8AAAM">Project link</a>
+
 Project Name: Predicting Life Expectancy using machine learning<br>
 Kick off date: 06-06-2020<br>
 
