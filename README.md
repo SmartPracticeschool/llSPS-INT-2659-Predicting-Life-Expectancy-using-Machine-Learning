@@ -13,24 +13,24 @@ A dataset suitable to solve the problem, Python platform, IBM cloud, IBM watson,
 Life expectancy depends on various factors: Regional variations, Economic Circumstances, Sex Differences, Mental Illnesses, Physical Illnesses, Education, Year of their birth and other demographic factors. 
 
 <h3>Technical Requirements:</h3>
-Machine learning algorithms
-IBM cloud
-IBM watson
-Node red
+Machine learning algorithms<br>
+IBM cloud<br>
+IBM watson<br>
+Node red<br>
 
 <h3>Software Requirements:</h3>
-Python platform either jupyter or spider
-IBM cloud and IBM watson studio
+Python platform either jupyter or spyder<br>
+IBM cloud and IBM watson studio<br>
 
 <h3>Project Deliverables:</h3>
 This problem statement provides a way to predict average life expectancy of people living in a country when various factors such as year, GDP, education, alcohol intake of people in the country, expenditure on healthcare system and some specific disease related deaths that happened in the country are given.
 
 <h3>Project Team:</h3>
-Indiviual project and will be done under the instructions of mentor from Smartinternz.
-Details:
-Name: Nikhil V
-SBID: SB20200047588
-College : NMAM Institute of technology, Nitte.
-Email: nikhilshettigar269@gmail.com
+Indiviual project and will be done under the instructions of mentor from Smartinternz.<br>
+Details:<br>
+Name: Nikhil V<br>
+SBID: SB20200047588<br>
+College : NMAM Institute of technology, Nitte.<br>
+Email: nikhilshettigar269@gmail.com<br>
 
 
