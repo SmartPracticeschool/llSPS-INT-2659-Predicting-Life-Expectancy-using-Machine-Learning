@@ -3,7 +3,7 @@
 Project Name: Predicting Life Expectancy using machine learning
 Kick off date: 06-06-2020
 
-Project Summary:
+<h3>Project Summary:<h3>
 A typical Regression Machine Learning project leverages historical data to predict insights into the future. This problem statement is aimed at predicting Life Expectancy rate of a country given various features.Life expectancy is a statistical measure of the average time a human being is expected to live.
 
 Project Requirements:
